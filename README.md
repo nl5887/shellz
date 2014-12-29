@@ -45,3 +45,7 @@ Screenshots
 **c99madshell.113b0f1c6d5cbe62695fbfe745cded99**
 ![c99madshell.113b0f1c6d5cbe62695fbfe745cded99](https://raw.githubusercontent.com/nl5887/shellz/master/c99madshell.113b0f1c6d5cbe62695fbfe745cded99.png)
 
+**acid.shell.36fda654f942a5baf9d4eb36e4a5b856**
+![acid.shell.36fda654f942a5baf9d4eb36e4a5b856](https://raw.githubusercontent.com/nl5887/shellz/master/acid.shell.36fda654f942a5baf9d4eb36e4a5b856.png)
+
+
