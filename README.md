@@ -48,4 +48,7 @@ Screenshots
 **acid.shell.36fda654f942a5baf9d4eb36e4a5b856**
 ![acid.shell.36fda654f942a5baf9d4eb36e4a5b856](https://raw.githubusercontent.com/nl5887/shellz/master/acid.shell.36fda654f942a5baf9d4eb36e4a5b856.png)
 
+**kalachnikov.5b983f109049069243d641e11e6223fa**
+![kalachnikov.5b983f109049069243d641e11e6223fa](https://raw.githubusercontent.com/nl5887/shellz/master/kalachnikov.5b983f109049069243d641e11e6223fa.png)
+![kalachnikov.5b983f109049069243d641e11e6223fa](https://raw.githubusercontent.com/nl5887/shellz/master/kalachnikov.5b983f109049069243d641e11e6223fa-2.png)
 
