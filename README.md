@@ -52,6 +52,6 @@ Screenshots
 ![kalachnikov.5b983f109049069243d641e11e6223fa](https://raw.githubusercontent.com/nl5887/shellz/master/kalachnikov.5b983f109049069243d641e11e6223fa.png)
 ![kalachnikov.5b983f109049069243d641e11e6223fa](https://raw.githubusercontent.com/nl5887/shellz/master/kalachnikov.5b983f109049069243d641e11e6223fa-2.png)
 
-**rioGCT-40444726ce8e337f27723d59fbfa29de2ee**
-![rioGCT-40444726ce8e337f27723d59fbfa29de2ee](https://raw.githubusercontent.com/nl5887/shellz/master/rioGCT-40444726ce8e337f27723d59fbfa29de2ee.png)
-![rioGCT-40444726ce8e337f27723d59fbfa29de2ee](https://raw.githubusercontent.com/nl5887/shellz/master/rioGCT-40444726ce8e337f27723d59fbfa29de2ee-2.png)
+**rioGCT-404.44726ce8e337f27723d59fbfa29de2ee**
+![rioGCT-404.44726ce8e337f27723d59fbfa29de2ee](https://raw.githubusercontent.com/nl5887/shellz/master/rioGCT-404.44726ce8e337f27723d59fbfa29de2ee.png)
+![rioGCT-404.44726ce8e337f27723d59fbfa29de2ee](https://raw.githubusercontent.com/nl5887/shellz/master/rioGCT-404.44726ce8e337f27723d59fbfa29de2ee-2.png)
